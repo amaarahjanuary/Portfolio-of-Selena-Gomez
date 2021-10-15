@@ -4,7 +4,7 @@ body {
   }
   
   .hero-image {
-    background-image: url("file:///home/lifechoices/Documents/selena%20portfolio/test/images/selenabackground.jpg");
+    background-image: url("images/selenabackground.jpg");
     background-color: #cccccc;
     height: 1000px;
     background-position: center;
@@ -24,7 +24,7 @@ body {
 
     
   .hero-image2 {
-    background-image: url("file:///home/lifechoices/Documents/selena%20portfolio/test/images/selenaback2.jpg");
+    background-image: url("images/selenaback2.jpg");
     background-color: #cccccc;
     height: 3700px;
     background-position: center;
@@ -44,7 +44,7 @@ body {
   }
 
   .hero-image3 {
-    background-image: url("file:///home/lifechoices/Documents/selena%20portfolio/test/images/selenaback3.jpg");
+    background-image: url("images/selenaback3.jpg");
     background-color: #cccccc;
     height: 1000px;
     background-position: center;
@@ -57,7 +57,7 @@ body {
   
     
   .hero-image4 {
-    background-image: url("file:///home/lifechoices/Documents/selena%20portfolio/test/images/selenaback8.jpg");
+    background-image: url("images/selenaback8.jpg");
     background-color: #cccccc;
     height: 1000px;
     background-position: center;
@@ -345,7 +345,7 @@ body {
   }
   
   .flip-card-back {
-    color: black;
+ 
     transform: rotateY(180deg);
     opacity: 0,8;
   }
